@@ -11,5 +11,5 @@ The model is trained on the CelebFaces Attributes Dataset (CelebA):
 ![Image of Training Set](https://github.com/Kratos-is-here/Face-Generation-GAN/blob/main/assets/processed_face_data.png)
 The CelebA dataset contains over 200,000 celebrity images with annotations.
 
-It generates 128x128 unreal human faces, here are a few samples:  
+## It generates 128x128 unreal human faces, here are a few samples:  
 ![Image of Generated Faces](https://github.com/Kratos-is-here/Face-Generation-GAN/blob/main/assets/Generated_faces2.png)
